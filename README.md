@@ -1,5 +1,3 @@
-# Philosophy of Science Essay - "Is Trust Important in Science?"
-
 This repository contains an essay submitted as part of an online 2-hour exam in Philosophy of Science at King's College London. It explores the role of trust in science, critically engaging with John Hardwig's arguments and examining how replication, confirmation and collaboration shapes scientific reliability.
 The essay argues that the role of personal trust in science is often overstated. 
 
